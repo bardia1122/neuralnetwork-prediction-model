@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Breast Cancer Malignancy Prediction Model</title>
+    
 </head>
 <body>
 
@@ -63,8 +63,6 @@ cd breast-cancer-malignancy-prediction</code></pre>
 <h2>Results</h2>
 <p>The model achieves high accuracy in predicting whether breast cancer is malignant or benign, with visualizations provided for training and validation loss.</p>
 
-<h2>License</h2>
-<p>This project is licensed under the MIT License.</p>
 
 </body>
 </html>
